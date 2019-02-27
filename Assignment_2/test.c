@@ -10,7 +10,7 @@ int main() {
 
 
 
-	const char* ip = "127.0.0.1";
+	const char* ip = "127.1.1.1";
         struct sockaddr_in addr;
 
 	printf("%d\n", sizeof(addr));
