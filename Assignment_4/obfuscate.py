@@ -16,9 +16,6 @@ x86_encode = ""
 
 for i in bytearray(shellcode):
 
-	
-	# Shift every byte by 0x50
-#	add = i + 0x50
 
 	# XOR the shifted value with 0xAA
 	xor = i^0xAA
