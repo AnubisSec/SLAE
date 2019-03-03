@@ -21,7 +21,7 @@ test_next:
 
 
 	cmp al, 0xf2 ; Compares the syscall value of access, and the value of the EFAULT error
-	je short following_page ; If not equal, go back and check the follwing memory page
+	je short following_page ; If EFAULT thrown, go back and check the follwing memory page
 
 	cmp [edx], esi ; If memory can be accessed, check for the egg inside ESI
 	jnz short test_next ; Go back and keep testing if the egg wasn't found
