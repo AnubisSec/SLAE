@@ -1,3 +1,6 @@
+// Author: Anubis
+// SLAE
+
 #include <stdio.h>
 #include <sys/socket.h>
 #include <netinet/ip.h>
