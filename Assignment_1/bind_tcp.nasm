@@ -1,3 +1,7 @@
+; Author: Anubis
+; SLAE
+
+
 global _start
 
 

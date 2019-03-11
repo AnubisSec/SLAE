@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+# Author: Anubis
+# SLAE
+
+
 from termcolor import colored
 
 # objdump output for the execve-stack binary that executes /bin//sh
