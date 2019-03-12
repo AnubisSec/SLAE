@@ -1,6 +1,9 @@
-; Author: Anubis
-; SLAE
-
+;;;;;;;;;;;;;;;;;;;;;;;;;;
+;;			;;
+;; Author: Anubis	;;
+;; SLAE			;;
+;;			;;
+;;;;;;;;;;;;;;;;;;;;;;;;;;
 
 global _start
 

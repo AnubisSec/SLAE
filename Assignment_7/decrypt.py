@@ -1,7 +1,6 @@
 #!/usr/bin/python
 import sys
 import pyaes
-import os
 from ctypes import *
 
 

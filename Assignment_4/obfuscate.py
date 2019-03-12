@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-# Author: Anubis
-# SLAE
 
+######################
+# Author: Anubis     #
+# SLAE               #
+######################
 
 from termcolor import colored
 

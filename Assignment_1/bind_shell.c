@@ -1,5 +1,10 @@
-//Author: Anubis
-//SLAE
+//////////////////////////
+//			//
+// Author: Anubis	//
+// SLAE			//
+//			//
+//////////////////////////
+
 
 #include <stdio.h>  
 #include <sys/types.h>   
